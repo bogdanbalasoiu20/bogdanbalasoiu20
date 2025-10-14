@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bogdan Bălășoiu</h1>
-<h3 align="center">A learning software developer</h3>
+<h3 align="center">Learning to become a Software Developer</h3>
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -119,6 +120,28 @@
     </td>
   </tr>
 </table>
+
+<!-- Project Card: x86 Assembly – Game of Life -->
+<table>
+  <tr>
+    <td width="70">
+      <!-- tiny inline SVG chip icon (works on dark mode) -->
+      <svg width="40" height="40" viewBox="0 0 24 24" role="img" aria-label="x86 Assembly">
+        <rect x="3" y="3" width="18" height="18" rx="2" ry="2" fill="#ffffff" />
+        <rect x="6" y="6" width="12" height="12" rx="1" ry="1" fill="#111827" />
+        <text x="12" y="14" font-size="6" text-anchor="middle" fill="#ffffff" font-family="monospace">x86</text>
+      </svg>
+    </td>
+    <td>
+      <b><a href="https://github.com/bogdanbalasoiu20/x86-assembly" target="_blank" rel="noreferrer">x86 Assembly — Game of Life</a></b>
+      <br/>
+      Mini project in x86 assembly: Conway’s Game of Life with <i>interactive mode</i>, <i>encryption/decryption</i> using evolving grid states, and <i>file input mode</i> for predefined patterns.
+      <br/>
+      <sub>Tech: x86 Assembly • low-level I/O</sub>
+    </td>
+  </tr>
+</table>
+
 
 
 
