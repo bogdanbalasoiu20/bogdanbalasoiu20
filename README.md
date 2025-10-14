@@ -44,14 +44,13 @@
     <td>
       <b>DNS Ad Blocker</b>
       <br/>
-      DNS blocker în Docker: liste de domenii, caching, log-uri zilnice ale domeniilor blocate, configurabil pentru rețele demo.
+      Local DNS server (UDP/53) that blocks known ad/tracking domains by returning <code>0.0.0.0</code>, resolves the rest via system DNS, and records daily stats (≥100 blocked names) with per-domain and per-company breakdowns; runnable via Docker Compose.
       <br/>
-      <sub>
-        Tech: Python • Docker • Networking • Scapy (lab) 
-      </sub>
+      <sub>Tech: Python • dnslib • UDP sockets • JSON/LOG stats • Docker Compose</sub>
     </td>
   </tr>
 </table>
+
 
 <!-- Project Card: Traceroute Toolkit -->
 <table>
@@ -62,14 +61,13 @@
     <td>
       <b>Traceroute Toolkit</b>
       <br/>
-      Script CLI care rulează traceroute pe mai multe domenii, cache-uiește IP-uri, generează raport Markdown și hartă interactivă (Plotly).
+      CLI that performs UDP/ICMP traceroutes to domains across multiple regions, geolocates each hop via API (with JSON cache), and auto-creates a Markdown report + interactive world map (HTML) per <i>location</i> (home/campus/VPS/public Wi-Fi).
       <br/>
-      <sub>
-        Tech: Python • Plotly • Markdown • CLI
-      </sub>
+      <sub>Tech: Python • sockets • ip-api • Plotly • Markdown • JSON cache</sub>
     </td>
   </tr>
 </table>
+
 
 <!-- Project Card: CodeNest (e-learning) -->
 <table>
