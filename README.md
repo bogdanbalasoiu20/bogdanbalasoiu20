@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bogdan Bălășoiu</h1>
 <h3 align="center">A learning software developer</h3>
 
-- 🔭 I’m currently working on [TeamUp](https://github.com/bogdanbalasoiu20/TeamUp)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,25 +12,22 @@
 <!-- ===================== PROJECTS ===================== -->
 <h3 align="left">Projects</h3>
 
-<!-- Project Card: TeamUp (current) -->
+<!-- Project Card: TeamUp (currently building) -->
 <table>
   <tr>
     <td width="70">
-      <a href="https://github.com/bogdanbalasoiu20/TeamUp" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spring.svg" width="40" height="40" alt="Spring Boot"/>
-      </a>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spring.svg" width="40" height="40" alt="Spring Boot"/>
     </td>
     <td>
-      <b><a href="https://github.com/bogdanbalasoiu20/TeamUp" target="_blank" rel="noreferrer">TeamUp</a></b>
+      <b><a href="https://github.com/bogdanbalasoiu20/TeamUp" target="_blank" rel="noreferrer">TeamUp</a></b> <sub>(currently building)</sub>
       <br/>
-      <i>I'm currently working on</i> — o aplicație pentru organizarea meciurilor de fotbal: postare meciuri, join requests, chat pe meci, rating jucători, hărți cu terenuri (OSM), rezervări.
+      Football match platform with leagues/championships, FIFA-style player cards (community voting → rating), FIFA-like team views in tournaments, AI notifications for nearby matches & suggested friends, venue map (OSM/nearby) with owner booking availability, join/approve requests, and per-match chat.
       <br/>
-      <sub>
-        Tech: Spring Boot • PostgreSQL • JWT • Docker • AWS EC2 • (Kotlin/React Native mobile – WIP)
-      </sub>
+      <sub>Tech: Spring Boot • PostgreSQL • JPA/Flyway • Spring Security + JWT • WebSocket • Docker • AWS EC2 • Mobile client (Kotlin/React Native – WIP)</sub>
     </td>
   </tr>
 </table>
+
 
 
 
@@ -42,7 +38,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
     </td>
     <td>
-      <b>DNS Ad Blocker</b>
+      <b><a href="https://github.com/bogdanbalasoiu20/retele-bs" target="_blank" rel="noreferrer">DNS Ad Blocker</a></b>
       <br/>
       Local DNS server (UDP/53) that blocks known ad/tracking domains by returning <code>0.0.0.0</code>, resolves the rest via system DNS, and records daily stats (≥100 blocked names) with per-domain and per-company breakdowns; runnable via Docker Compose.
       <br/>
@@ -59,7 +55,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
     </td>
     <td>
-      <b>Traceroute Toolkit</b>
+      <b><a href="https://github.com/bogdanbalasoiu20/retele-bs" target="_blank" rel="noreferrer">Traceroute Toolkit</a></b>
       <br/>
       CLI that performs UDP/ICMP traceroutes to domains across multiple regions, geolocates each hop via API (with JSON cache), and auto-creates a Markdown report + interactive world map (HTML) per <i>location</i> (home/campus/VPS/public Wi-Fi).
       <br/>
@@ -76,7 +72,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
     </td>
     <td>
-      <b>CodeNest</b>
+      <b><a href="https://github.com/bogdanbalasoiu20/CodeNest" target="_blank" rel="noreferrer">CodeNest</a></b>
       <br/>
       All-in-one CS e-learning platform: in-browser codebox, custom quizzes, full courses, AI assistant, forum, and real-time leaderboard.
       <br/>
@@ -94,7 +90,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
     </td>
     <td>
-      <b>Django E-Commerce (Shoe Store)</b>
+      <b><a href="https://github.com/bogdanbalasoiu20/Shoes-Store-eCommerce" target="_blank" rel="noreferrer">Django E-Commerce (Shoe Store)</a></b>
       <br/>
       Django-powered online store: user auth, virtual cart, advanced product filtering, admin dashboard, promotional email offers, and contact page.
       <br/>
