@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td width="70">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spring.svg" width="40" height="40" alt="Spring Boot"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring Boot"/>
     </td>
     <td>
       <b><a href="https://github.com/bogdanbalasoiu20/TeamUp" target="_blank" rel="noreferrer">TeamUp</a></b> <sub>(currently building)</sub>
@@ -104,7 +104,22 @@
 </table>
 
 
-<!-- Tip: dacă unele repo-uri nu sunt publice încă, lasă doar descrierea și adaugă link ulterior. -->
+<!-- Project Card: Haskell Mini-Game -->
+<table>
+  <tr>
+    <td width="70">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="40" height="40" alt="Haskell"/>
+    </td>
+    <td>
+      <b><a href="https://github.com/bogdanbalasoiu20/Huskell-Mini-Game" target="_blank" rel="noreferrer">Haskell Mini-Game</a></b>
+      <br/>
+      Turtle Graphics simulator in Haskell: grid-based movement with commands to <i>move</i>, <i>turn</i>, <i>repeat</i>, <i>wait</i>, and <i>sequence</i> actions; tracks (x, y) position and cardinal orientation.
+      <br/>
+      <sub>Tech: Haskell • Functional patterns</sub>
+    </td>
+  </tr>
+</table>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
