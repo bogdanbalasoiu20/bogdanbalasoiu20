@@ -89,6 +89,7 @@
   </tr>
 </table>
 
+<!-- Project Card: Django E-Commerce (Shoe Store) -->
 <table>
   <tr>
     <td width="70">
@@ -97,16 +98,17 @@
     <td>
       <b>Django E-Commerce (Shoe Store)</b>
       <br/>
-      Magazin online cu catalog produse, căutare și filtre, coș de cumpărături, checkout, comenzi, autentificare utilizatori și panou admin pentru gestionarea produselor.
+      Django-powered online store: user auth, virtual cart, advanced product filtering, admin dashboard, promotional email offers, and contact page.
       <br/>
       <sub>
-        Tech: Django • PostgreSQL • HTML/CSS/JavaScript
+        Tech: Django • PostgreSQL • HTML/CSS/JavaScript • Email/SMTP
       </sub>
-      <!-- Dacă ai repo public, pune linkul mai jos -->
+      <!-- Optional repo link if public -->
       <!-- <br/><sub><a href="https://github.com/USERNAME/REPO" target="_blank" rel="noreferrer">Repository</a></sub> -->
     </td>
   </tr>
 </table>
+
 
 <!-- Tip: dacă unele repo-uri nu sunt publice încă, lasă doar descrierea și adaugă link ulterior. -->
 
