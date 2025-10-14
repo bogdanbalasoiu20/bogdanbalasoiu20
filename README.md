@@ -80,7 +80,7 @@
     <td>
       <b>CodeNest</b>
       <br/>
-      Platformă e-learning pentru informatică: teste, codebox in-browser, AI assistant, forum și leaderboard în timp real.
+      All-in-one CS e-learning platform: in-browser codebox, custom quizzes, full courses, AI assistant, forum, and real-time leaderboard.
       <br/>
       <sub>
         Tech: Django • PostgreSQL • WebSockets • JS/HTML/CSS
