@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bogdan Bălășoiu</h1>
+<h3 align="center">Final-year Computer Science Student @ University of Bucharest</h3>
 <h3 align="center">Learning to become a Software Developer</h3>
 
 
