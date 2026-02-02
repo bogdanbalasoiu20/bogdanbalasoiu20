@@ -21,7 +21,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="Android"/>
     </td>
     <td>
-      <b><a href="https://github.com/bogdanbalasoiu20/PocketScan" target="_blank" rel="noreferrer">PocketScan</a></b> <sub>(featured)</sub>
+      <b><a href="https://github.com/bogdanbalasoiu20/PocketScan" target="_blank" rel="noreferrer">PocketScan</a></b>
       <br/>
       Android application for OCR-based receipt scanning and expense tracking. Extracts text from shopping receipts, detects merchants and totals, and categorizes expenses using a clean layered architecture with a Python backend for text processing.
       <br/>
@@ -49,6 +49,27 @@
   </tr>
 </table>
 
+
+<!-- Project Card: Mortal Vengeance -->
+<table>
+  <tr>
+    <td width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/>
+    </td>
+    <td>
+      <b><a href="https://github.com/bogdanbalasoiu20/Mortal-Vengeance" target="_blank" rel="noreferrer">Mortal Vengeance</a></b>
+      <br/>
+      Isometric (3/4) action RPG built in Unity, featuring real-time hack-and-slash
+      combat, enemies and NPCs, physics-based interactions, inventory and
+      skill-tree systems, procedural and handcrafted dungeons, fog of war, and an
+      RNG-based loot system with item rarities and affixes.
+      <br/>
+      <sub>
+        Tech: Unity • C#
+      </sub>
+    </td>
+  </tr>
+</table>
 
 
 
