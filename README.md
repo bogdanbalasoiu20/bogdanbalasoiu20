@@ -49,6 +49,31 @@
   </tr>
 </table>
 
+<!-- Project Card: Car Parking – Reinforcement Learning -->
+<table>
+  <tr>
+    <td width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+    </td>
+    <td>
+      <b>
+        <a href="https://github.com/bogdanbalasoiu20/car_parking_ReinforcementLearning" target="_blank" rel="noreferrer">
+          Car Parking — Reinforcement Learning
+        </a>
+      </b>
+      <br/>
+      Reinforcement Learning project implementing an autonomous car parking agent
+      in a custom-built simulation environment, trained using SARSA, DQN, and PPO
+      with reward shaping and discrete state representations.
+      <br/>
+      <sub>
+        Tech: Python • Reinforcement Learning 
+      </sub>
+    </td>
+  </tr>
+</table>
+
+
 
 <!-- Project Card: Mortal Vengeance -->
 <table>
