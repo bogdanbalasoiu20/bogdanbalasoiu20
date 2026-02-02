@@ -14,6 +14,25 @@
 <!-- ===================== PROJECTS ===================== -->
 <h3 align="left">Projects</h3>
 
+<!-- Project Card: PocketScan (featured) -->
+<table>
+  <tr>
+    <td width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="Android"/>
+    </td>
+    <td>
+      <b><a href="https://github.com/bogdanbalasoiu20/PocketScan" target="_blank" rel="noreferrer">PocketScan</a></b> <sub>(featured)</sub>
+      <br/>
+      Android application for OCR-based receipt scanning and expense tracking. Extracts text from shopping receipts, detects merchants and totals, and categorizes expenses using a clean layered architecture with a Python backend for text processing.
+      <br/>
+      <sub>
+        Tech: Android (Kotlin, Jetpack Compose) • Python (OCR) • Docker
+      </sub>
+    </td>
+  </tr>
+</table>
+
+
 <!-- Project Card: TeamUp (currently building) -->
 <table>
   <tr>
