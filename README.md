@@ -57,7 +57,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40" alt="Unity"/>
     </td>
     <td>
-      <b><a href="https://github.com/bogdanbalasoiu20/Mortal-Vengeance" target="_blank" rel="noreferrer">Mortal Vengeance</a></b>
+      <b><a href="https://github.com/cattoioros/mortal_vengeance" target="_blank" rel="noreferrer">Mortal Vengeance</a></b>
       <br/>
       Isometric (3/4) action RPG built in Unity, featuring real-time hack-and-slash
       combat, enemies and NPCs, physics-based interactions, inventory and
