@@ -33,18 +33,21 @@
 </table>
 
 
-<!-- Project Card: TeamUp (currently building) -->
+<!-- Project Card: TeamUp -->
 <table>
   <tr>
     <td width="70">
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring Boot"/>
     </td>
     <td>
-      <b><a href="https://github.com/bogdanbalasoiu20/TeamUp" target="_blank" rel="noreferrer">TeamUp</a></b> <sub>(currently building)</sub>
+      <b>TeamUp</b>
       <br/>
-      Football match platform with leagues/championships, FIFA-style player cards (community voting → rating), FIFA-like team views in tournaments, AI notifications for nearby matches & suggested friends, venue map (OSM/nearby) with owner booking availability, join/approve requests, and per-match chat.
+      🔗 <a href="https://github.com/bogdanbalasoiu20/TeamUp" target="_blank">Backend</a> |
+      🔗 <a href="https://github.com/bogdanbalasoiu20/TeamUp-Frontend-Flutter" target="_blank">Mobile App</a>
+      <br/><br/>
+      Full-stack football community platform inspired by FIFA/EA FC, designed to connect amateur players through location-based match discovery, team formation, tournaments, and social interactions. Includes FIFA-style player cards, dynamic rating and chemistry systems, live form tracking, tournament management, venue booking, real-time chat, AI-powered recommendations, friend matching, and interactive football maps powered by OpenStreetMap.
       <br/>
-      <sub>Tech: Spring Boot • PostgreSQL • JPA/Flyway • Spring Security + JWT • WebSocket • Docker • AWS EC2 • Mobile client (Kotlin/React Native – WIP)</sub>
+      <sub>Tech: Spring Boot • PostgreSQL • JPA/Hibernate • Flyway • Spring Security • JWT • WebSocket • OpenStreetMap APIs • Cloudinary • Docker • AWS EC2 • Flutter • REST APIs</sub>
     </td>
   </tr>
 </table>
